@@ -21,4 +21,5 @@ A parameter driven box for Pico projects in Fusion360. A great starter for any p
 
 ![image](https://user-images.githubusercontent.com/46349796/209578521-ba6cc7b2-f8ef-48b1-9bb0-be8af3a26603.png)
 
+![image](https://user-images.githubusercontent.com/46349796/209578654-898347b4-1f9b-40a8-ac65-19cffde76230.png)
 
