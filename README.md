@@ -8,6 +8,12 @@ A parameter driven box for Pico projects in Fusion360. A great starter for any p
 * Adjust the parameters to your requirements
 * Add and build extra parts needed for your components
 
+## Printed box
+
+![IMG_20221226_193443](https://user-images.githubusercontent.com/46349796/209578807-01d2afa0-4138-4dcc-b6ef-8082d779ea19.jpg)
+
+## Simple box
+
 ![image](https://user-images.githubusercontent.com/46349796/209577207-59e42de5-277e-41b6-86cc-c6a0eb8eadfe.png)
 
 ![image](https://user-images.githubusercontent.com/46349796/209577228-fe481dd3-63b2-49e1-ac0d-9b9537667f56.png)
